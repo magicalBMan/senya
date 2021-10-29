@@ -1,4 +1,4 @@
-package com.sayers.senya.ui.fragment
+package com.sayers.senya.ui.fragment.home
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -24,7 +24,13 @@ class HomeFragment : BaseFragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        val rv = binding.recyclerView
+        val homeAdapter = HomeFragmentAdapter {
+            // todo handle item being clicked - navigate
+        }
+
+        binding.recyclerView.adapter = homeAdapter
+
+        homeAdapter.setData(emptyList())
     }
 
     override fun onDestroyView() {

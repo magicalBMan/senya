@@ -3,9 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Scott Borne/AndroidStudioProjects/Senya/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.4453125" />
+        <entry key="..\:/Users/Scott Borne/AndroidStudioProjects/Senya/app/src/main/res/drawable/ic_baseline_arrow_right_24.xml" value="0.43846153846153846" />
+        <entry key="..\:/Users/Scott Borne/AndroidStudioProjects/Senya/app/src/main/res/drawable/ic_baseline_flight_24.xml" value="0.43846153846153846" />
+        <entry key="..\:/Users/Scott Borne/AndroidStudioProjects/Senya/app/src/main/res/drawable/ic_launcher_background.xml" value="0.4453125" />
         <entry key="..\:/Users/Scott Borne/AndroidStudioProjects/Senya/app/src/main/res/layout/activity_main.xml" value="0.4121376811594203" />
         <entry key="..\:/Users/Scott Borne/AndroidStudioProjects/Senya/app/src/main/res/layout/fragment_attraction_detail.xml" value="0.42916666666666664" />
         <entry key="..\:/Users/Scott Borne/AndroidStudioProjects/Senya/app/src/main/res/layout/fragment_home.xml" value="0.42916666666666664" />
+        <entry key="..\:/Users/Scott Borne/AndroidStudioProjects/Senya/app/src/main/res/layout/view_holder_attraction.xml" value="0.42916666666666664" />
       </map>
     </option>
   </component>
