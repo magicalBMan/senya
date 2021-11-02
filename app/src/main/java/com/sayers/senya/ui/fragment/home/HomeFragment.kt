@@ -30,7 +30,7 @@ class HomeFragment : BaseFragment() {
 
         binding.recyclerView.adapter = homeAdapter
 
-        homeAdapter.setData(emptyList())
+        homeAdapter.setData(attractions)
     }
 
     override fun onDestroyView() {
