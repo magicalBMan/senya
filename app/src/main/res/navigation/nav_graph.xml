@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/attractionDetailFragment"
-        android:name="com.sayers.senya.ui.fragment.DetailFragment"
+        android:name="com.sayers.senya.ui.fragment.AttractionDetailFragment"
         android:label="Attraction Detail Fragment"
         tools:layout="@layout/fragment_attraction_detail">
         <argument
